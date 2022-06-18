@@ -25,7 +25,6 @@ Select an active device and run the application with any sentence below
 <p float="left">
   <img src="assets/readme/cuarta.png" width="180"> 
   <img src="assets/readme/quinta.png" width="180"> 
-  <img src="assets/readme/menu.jpg" width="180"> 
 </p>
 <p float="left">
   <img src="assets/readme/first.GIF" width="180"> 
