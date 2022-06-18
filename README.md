@@ -1,17 +1,36 @@
-# food_challenge
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # FoodApp
+
+FoodApp is an animated application with no external packages.
+
+## Instalation
+
+In the terminal type the following sentence and press enter
+### `flutter pub get`
+
+## Run the application
+
+Select an active device and run the application with any sentence below
+
+### `F5`
+
+### `Flutter run`
+
+## application images
+
+<p float="left">
+  <img src="assets/readme/primera.png" width="180"> 
+  <img src="assets/readme/segunda.png" width="180"> 
+  <img src="assets/readme/tercera.png" width="180"> 
+</p>
+<p float="left">
+  <img src="assets/readme/cuarta.png" width="180"> 
+  <img src="assets/readme/quinta.png" width="180"> 
+  <img src="assets/readme/menu.jpg" width="180"> 
+</p>
+<p float="left">
+  <img src="assets/readme/first.GIF" width="180"> 
+  <img src="assets/readme/second.GIF" width="180"> 
+</p>
+
+
+
