@@ -2,7 +2,7 @@
 
 FoodApp is an animated application with no external packages.
 
-## Instalation
+## instructions
 
 In the terminal type the following sentence and press enter
 ### `flutter pub get`
